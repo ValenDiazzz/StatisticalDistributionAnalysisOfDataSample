@@ -1,3 +1,4 @@
+# Statistical Distribution of a Data Sample
 The aim of this project is to use topics learned in the course "Models & Simulation" to analyze a data sample.
 This topics includes:
 
